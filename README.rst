@@ -11,6 +11,12 @@ look like, and how to extend the framework with custom test libraries.
    :depth: 1
    :local:
 
+##  Install RESTIntance
+```
+python -m venv venv
+./venv/Scripts/activate.bat
+pip install --upgrade RESTinstance
+```
 Downloading demo package
 ========================
 
